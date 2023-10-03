@@ -37,3 +37,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check issu
 7. Push to the Branch (git push origin feature/AmazingFeature)
    
 9. Open a Pull Request
+
+# Authors
+This project was created by Ashmit Gaba, Ananth Sriram, Mihir Singh, and Shriyans Sairy.
