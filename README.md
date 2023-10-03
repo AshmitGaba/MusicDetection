@@ -27,8 +27,13 @@ Expanding the training data to include a wider array of music genres and product
 
 # Contribute 🤝
 Contributions, issues, and feature requests are welcome! Feel free to check issues page.
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+
+1. Fork the Project
+   
+3. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+   
+5. Commit your Changes (git commit -m 'Add some AmazingFeature')
+   
+7. Push to the Branch (git push origin feature/AmazingFeature)
+   
+9. Open a Pull Request
